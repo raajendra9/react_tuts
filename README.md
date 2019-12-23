@@ -1,5 +1,5 @@
 React is a javascript library created by facebook
-React is a tool for building components
+React is a tool for building components.
 
 How does react work?
     React creates a virtual DOM in memory  
