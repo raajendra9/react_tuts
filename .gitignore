@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/.pnp
-.pnp.js
 /public
 # testing
 /coverage
@@ -23,3 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 package.json
+node_modules
